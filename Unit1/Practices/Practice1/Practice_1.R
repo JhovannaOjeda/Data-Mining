@@ -1,3 +1,4 @@
+
 #Declaring the N variable with a random normal distribution of numbers an our 
 ##counter
 N <- rnorm(10000)

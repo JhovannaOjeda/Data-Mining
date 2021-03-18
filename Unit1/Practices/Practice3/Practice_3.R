@@ -1,3 +1,4 @@
+
 #Declaring the csv
 rcsv <- read.csv("C:\\Users\\Jhovanna Ojeda\\Documents\\Escuela\\DataMining\\Unit_1\\P3.csv", TRUE, ",")
 
