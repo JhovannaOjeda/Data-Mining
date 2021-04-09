@@ -29,3 +29,13 @@ filterCountry2013
 stats_2013 <- goverment[filterCountry2013,]
 stats_2013
 
+# Merged 
+merged <- merge(goverment, dataCountry, by.x = "Country.Code", by.y = "Code")
+head(merged)
+tail(merged)
+
+#  Library scater plot 
+library(ggplot2)
+# year 2013
+qplot(data=merged, x=Fertility.Rate, y=Life_2013, size=I(5),color=I("violet"))
+
