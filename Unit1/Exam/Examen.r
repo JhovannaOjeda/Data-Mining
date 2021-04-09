@@ -22,3 +22,10 @@ head(dataCountry)
 # last elements
 tail(dataCountry)
 
+# Filter year 2013
+filterCountry2013 <- goverment$Year ==2013
+filterCountry2013
+
+stats_2013 <- goverment[filterCountry2013,]
+stats_2013
+
