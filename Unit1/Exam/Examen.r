@@ -5,6 +5,10 @@ head(countries, 10)
 # Charging the csv
 goverment <- read.csv(file.choose())
 goverment
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd19016324f18adf70295a8069e48b602280f3fd
 
 #Creating a dataframe with data of the vectors
 Country_Code <- c("ABW","AFG","AGO","ALB","ARE","ARG","ARM","ATG","AUS","AUT","AZE","BDI","BEL","BEN","BFA","BGD","BGR","BHR","BHS","BIH","BLR","BLZ","BOL","BRA","BRB","BRN","BTN","BWA","CAF","CAN","CHE","CHL","CHN","CIV","CMR","COG","COL","COM","CPV","CRI","CUB","CYP","CZE","DEU","DJI","DNK","DOM","DZA","ECU","EGY","ERI","ESP","EST","ETH","FIN","FJI","FRA","FSM","GAB","GBR","GEO","GHA","GIN","GMB","GNB","GNQ","GRC","GRD","GTM","GUM","GUY","HKG","HND","HRV","HTI","HUN","IDN","IND","IRL","IRN","IRQ","ISL","ITA","JAM","JOR","JPN","KAZ","KEN","KGZ","KHM","KIR","KOR","KWT","LAO","LBN","LBR","LBY","LCA","LKA","LSO","LTU","LUX","LVA","MAC","MAR","MDA","MDG","MDV","MEX","MKD","MLI","MLT","MMR","MNE","MNG","MOZ","MRT","MUS","MWI","MYS","NAM","NCL","NER","NGA","NIC","NLD","NOR","NPL","NZL","OMN","PAK","PAN","PER","PHL","PNG","POL","PRI","PRT","PRY","PYF","QAT","ROU","RUS","RWA","SAU","SDN","SEN","SGP","SLB","SLE","SLV","SOM","SSD","STP","SUR","SVK","SVN","SWE","SWZ","SYR","TCD","TGO","THA","TJK","TKM","TLS","TON","TTO","TUN","TUR","TZA","UGA","UKR","URY","USA","UZB","VCT","VEN","VIR","VNM","VUT","WSM","YEM","ZAF","COD","ZMB","ZWE")
@@ -12,6 +16,7 @@ Life_Expectancy_At_Birth_1960 <- c(65.5693658536586,32.328512195122,32.984829268
 df60 <- data.frame(Country.Code=Country_Code, Life.Expectancy_1960=Life_Expectancy_At_Birth_1960)
 head(df60, 10)
 
+<<<<<<< HEAD
 #Merging both CSV and vectors data for 1960
 filter60 <- countries[countries$Year == 1960,]
 head(filter60,10)
@@ -23,6 +28,8 @@ qplot(data = FullData60, x = Fertility.Rate, y = Life.Expectancy_1960, color = R
       main = "Fertility Rate vs Life Expentancy in 1960 by Country")
 
 
+=======
+>>>>>>> dd19016324f18adf70295a8069e48b602280f3fd
 ### Year 2013
 # Create Dataframe
 dataCountry <- data.frame(Code= Country_Code, Life_2013=Life_Expectancy_At_Birth_2013)
@@ -48,3 +55,7 @@ tail(merged)
 library(ggplot2)
 # year 2013
 qplot(data=merged, x=Fertility.Rate, y=Life_2013, size=I(5),color=I("violet"))
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd19016324f18adf70295a8069e48b602280f3fd
