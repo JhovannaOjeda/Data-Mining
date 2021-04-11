@@ -54,7 +54,8 @@ tail(merged)
 #  Library scater plot 
 library(ggplot2)
 # year 2013
-qplot(data=merged, x=Fertility.Rate, y=Life_2013, size=I(5),color=I("violet"))
+qplot(data = merged, x = Fertility.Rate, y = Life_2013, color = Region, 
+      main = "Fertility Rate vs Life Expentancy in 2013 by Country")
 <<<<<<< HEAD
 =======
 
