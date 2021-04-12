@@ -1,2 +1,8 @@
 Unit_1 Branch
 All practices for the Unit 1
+Practice 1: https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice1
+Practice 2: https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice2
+Practice 3: https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice3
+Practice 4:
+Practice 5: https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice5
+Exam: https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Exam
