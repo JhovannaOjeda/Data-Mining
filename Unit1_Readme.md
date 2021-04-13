@@ -399,3 +399,5 @@ stats[stats$Country.Name == "Qatar",]
 stats[stats$Country.Name == "Netherlands",]
 stats[stats$Country.Name == "Norway",]
 ```
+### Examen
+### Instructions
