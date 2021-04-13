@@ -59,7 +59,7 @@ c <- 0
   r
 ```
 
-##Practice 2
+###Practice 2
 ###Intructions
 Functions
 
