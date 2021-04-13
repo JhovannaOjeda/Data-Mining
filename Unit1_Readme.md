@@ -401,6 +401,42 @@ stats[stats$Country.Name == "Norway",]
 ```
 ### Examen
 ### Instructions
+Develop The Following Problem With R And Rstudio Using Dataframes For The
+Extraction Of Knowledge That The Problem Requires.
+The World Bank Was Very Impressed With Their Delivery In The Previous Allocation And
+They Have A New Project For You.
+
+You Should Generate A Scatter-Plot That Shows The
+Life Expectancy Statistics (Y-Axis) And Fertility Rate
+(Fertility Rate -X Axis) By Country (Country).
+
+The Scatter Plot Should Also Be Classified By Country Regions (Country
+Regions).
+
+You Have Been Provided Data For 2 Years: 1960 And 2013 And You Are Required To
+Produce A Visualization For Each Of These Years.
+Some Data Has Been Provided In A Cvs File, Some In R Vectors. The
+Cvs File Contains Combined Data From Both Years. All Data Manipulation
+Should Be Done In R (Not In Excel) Because This Project Can Be Audited In A
+Later Stage.
+
+You Have Also Been Asked To Provide Information On How The
+Two Periods. (Hint: Basically The Explanation Of His Observations)
+Note:
+The Files To Perform This Practice Are Countryregionvectors.R And
+Dataframeevaluation_data.Csv Is Located In The Google Drive Folder
+Shared Resources / Information-Ui:
+Evaluation Instructions
+- Delivery Time April 13, 2021
+- When Finished Put The Code And Documentation With Its Explanation In The Branch
+Corresponiete Of Your Github, Also Make Your Explanation Of The Solution In Your
+Google Drive In Google Document (Cover, Introduction, Development, Etc).
+- Finally Defend Its Development In A 6-8 Min Video Explaining Its Solution And
+Comments, This Will Serve To Give Your Qualification Of This Evaluation Practice, This
+Video Must Be Uploaded To Youtube To Be Shared By A Public Link (Use
+Google Meet With The Cameras On And Record Your Defense To Raise The
+Video).
+Happy Coding :)!
 
 ```r
 #Exam Unit 1
