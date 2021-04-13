@@ -59,8 +59,9 @@ c <- 0
   r
 ```
 
-###Practice 2
-###Intructions
+### Practice 2
+
+### Intructions
 Functions
 
 Practice find 20 more functions in R and make an example of it.
@@ -147,9 +148,9 @@ var (x)
 ```
 
 
-###Practice 3
+### Practice 3
 
-###Intructions
+### Intructions
 
 You have been supplied with two vector of data: mounthly revenue and
 expenses for the financial year in quiestion. Your task is to calculate
@@ -264,9 +265,9 @@ min(profitAfter)
 ```
 
 
-###Practice 4 
+### Practice 4
 
-###Intructions
+### Intructions
 
 You have been supplied data for two more additional in-game statistics:
 * Free Throws
@@ -381,7 +382,7 @@ legend("bottomleft", inset=0.01, legend=Players, col=c(1:4, 6), pch=15:18, horiz
 ```
 
 
-###Practice 5
+### Practice 5
 ### Instructions
 
 ```r
