@@ -13,12 +13,13 @@
 
 
 ###  Index:
-#### Practice1
-#### Practice2
-#### Practice3
-#### Practice4
-#### Practice5
-### Examen
+- [Practice 1](https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice1)
+- [Practice 2](https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice2)
+- [Practice 3](https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice3)
+- [Practice 4](https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice4)
+- [Practice 5](https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Practices/Practice5)
+- [Exam](https://github.com/JhovannaOjeda/Data-Mining/tree/Unit_1/Unit1/Exam)
+- [Video Exam](https://www.youtube.com/watch?v=5Pr9_WQ6dW0)
 
 ### Practice 1
 ### Intructions
