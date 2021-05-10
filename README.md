@@ -19,12 +19,12 @@
 
 
 
-##Practice 
+## Practice 
 
 
 
-##Practice 1
-##Intructions
+## Practice 1
+## Intructions
 
 - Search for a data source in csv format (Free theme)
 -  2. Read the csv and analyze the data with R
