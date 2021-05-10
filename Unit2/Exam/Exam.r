@@ -9,7 +9,7 @@ colnames(lostgrafic) <- c( "dayofweek","Director", "Genre", "MovieTitle", "Relea
 ##First elements csv
 head(moviesData)
 ##Last elements csv
-tail(lostgrafic)
+tail(moviesData)
 
 act <- moviesData[moviesData$Genre == "action",]
 adv <- moviesData[moviesData$Genre == "adventure",]
