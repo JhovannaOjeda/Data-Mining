@@ -19,7 +19,7 @@
 
 
 
-## Practice 
+
 
 
 
@@ -72,7 +72,8 @@ plot+ xlab("Average") + ylab("Count") + ggtitle("Votation per movie") +
                        plot.title = element_text(color = "DarkBlue", size = 20, family = "Courier"))
 ```
 
-
+## Exam
+## Instrucions
 
 
 
