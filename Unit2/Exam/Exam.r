@@ -3,6 +3,7 @@ moviesData <- read.csv(file.choose())
 lostgrafic<- read.csv(file.choose())
 lostgrafic
 View(moviesData)
+##Rename columns csv 
 colnames(moviesData) <- c("Day", "Director", "Genre", "Title", "Release Date", "Studio", "Adjusted_GrossM", "Budget_M", "GrossM", "ImDb_Rating", "Movie_Lens_Rating", "OverseasM", "Overseas", "ProfitM", "Profit", "Runtime(min)", "USM", "Gross_US")
 colnames(lostgrafic) <- c( "dayofweek","Director", "Genre", "MovieTitle", "ReleaseDate","Studio","adjustedGrossmillions" ,"Budgetmillions","Grossmillions" ,"IMDBRating"," MovieLens","overseasmillions","overseas","profitmillions","profit","runtimemillions","usmillions","GrossUS")
 ##First elements csv
