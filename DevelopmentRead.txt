@@ -1,2 +1,0 @@
-Development Branch 
-All fases or the project before it deploys
