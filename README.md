@@ -121,4 +121,5 @@ moviesPlot + geom_jitter(aes(color=Studio, size=Budget_M)) +
     plot.title = element_text(hjust = .5, size = 20, family = "sans")
   ) 
 ```
-
+### Video
+https://www.youtube.com/watch?v=pz7ThWvWyJg
