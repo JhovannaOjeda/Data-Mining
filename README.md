@@ -122,7 +122,12 @@ moviesPlot + geom_jitter(aes(color=Studio, size=Budget_M)) +
   ) 
 ```
 
-## Plot
+## Conclusion
+
+The result can be seen in the following graphic in which we can see in our boxplot plot and you can see the number of films of the genres action, adventure, animation, comedy, drama and Buena vista studios, Fox, Paramount Pictures, Sony,Universal. We can see how jitter representation presents the participation of each study with respect to each gender and the investment of participation.
+For each genre we also have a boxplot to represent the average, minimum and maximum of data compared to its gross product in the United States, basically from this graph we can rescue that the genre with the most productions and general investment its action, on the contrary, the drama one does not have many productions.
+The genre with the lowest generated gross product was animation, while drama got the largest gross product, although from what we noticed in the end, the action is what sells the most and the most productions it has in the period when the data was recopilated.
+
 
 ![image](https://user-images.githubusercontent.com/63790039/118206467-6c59bd00-b417-11eb-966c-e288cc84bf13.png)
 
