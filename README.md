@@ -583,3 +583,4 @@ points(grid_set, pch = '.', col = ifelse(y_grid == 1, 'springgreen3', 'tomato'))
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 ```
 ## Video
+https://www.youtube.com/watch?v=RftytNybKE0
