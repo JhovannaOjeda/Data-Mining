@@ -582,7 +582,7 @@ contour(X1, X2, matrix(as.numeric(y_grid), length(X1), length(X2)), add = TRUE)
 points(grid_set, pch = '.', col = ifelse(y_grid == 1, 'springgreen3', 'tomato'))
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 ```
-Conclution
+## Conclution
 In conclusion, older people are those who perform more
 purchases than those who are younger, although with regard to salary
 Estimated age is not a determining factor in terms of a large salary.
