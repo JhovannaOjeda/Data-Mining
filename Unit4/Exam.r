@@ -1,11 +1,18 @@
-#Get the data set
-dataset = read.csv(file.choose())
+dataset <- read.csv(file.choose())
+
 dataset = dataset[1:4]
-#Use the Elbon Metod to look the best number of clusters to use
+View(dataset)
+
+# Using the elbow method to find the optimal number of clusters
 set.seed(6)
-Info = vector()
-for (i in 1:10) Info[i] = sum(kmeans(dataset, i)$withinss)
-plot(1:10, Info, type = 'b', main = paste('The Elbow Method'), xlab = 'Number of clusters', ylab = 'Info')
+wcss = vector()
+for (i in 1:10) wcss[i] = sum(kmeans(dataset, i)$withinss)
+plot(1:10,
+     wcss,
+     type = 'b',
+     main = paste('The Elbow Method'),
+     xlab = 'Number of clusters',
+     ylab = 'WCSS')
 
 # Fitting K-Means to the dataset
 set.seed(29)
@@ -26,3 +33,4 @@ clusplot(dataset,
          main = paste('Clusters of iris'),
          xlab = 'petal_lenght',
          ylab = 'peta_width')
+
