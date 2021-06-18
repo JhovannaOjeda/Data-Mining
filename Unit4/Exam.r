@@ -1,7 +1,7 @@
-#Geting the data set
+#Get the data set
 ds = read.csv(file.choose())
 
-#Using the Elbon Metod to look the best number of clusters to use
+#Use the Elbon Metod to look the best number of clusters to use
 set.seed(6)
 Info = vector()
 for (i in 1:10) Info[i] = sum(kmeans(dataset, i)$withinss)
