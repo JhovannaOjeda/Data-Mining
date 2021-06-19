@@ -15,6 +15,26 @@
 ##  Index:
 ## Exam
 ## Video
+
+### Instructions
+
+Develop the following problem with R and RStudio for knowledge extraction
+that the problem requires.
+Implement the K-Means grouping model with the Iris.csv dataset that
+found at https://github.com/jcromerohdz/iris using method
+kmeans () in R. Once the grouping model is obtained, do the analysis
+corresponding data display.
+At the end of the development, explain in detail what the model of
+K-Means grouping and what were your observations in the visualization analysis
+of data.
+Evaluation instructions
+- Delivery time 3 days
+- At the end put the code and the explanation in the corresponding branch of your
+github also make your explanation of the solution in your google drive.
+- Finally defend its development in a video of 8-10 min which will serve to give
+your rating, this video must be uploaded to youtube to be shared by a link
+public.
+
 ```r
 dataset <- read.csv(file.choose())
 
@@ -56,3 +76,6 @@ clusplot(dataset,
 
 
 ```
+### Video
+
+https://www.youtube.com/watch?v=luYJiMgRHQ8
