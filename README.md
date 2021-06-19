@@ -82,6 +82,13 @@ more particular of every group over the width. These groups depends on 4 charact
 even if the chart shows only 2.
 
 ```
+EXAM CONCLUSION
+As we can see in the chart, 2 types of Irises are very similar between them; they have 
+much flowers on both categories; whereas the third one its well defined and doesn’t share 
+any of his members. Other things it’s than even if majority share the same width of the 
+petal, there are differences in the length, so we can infer that the length it’s a characteristic
+more particular of every group over the width. These groups depends on 4 characteristics 
+even if the chart shows only 2.
 ### Video
 
 https://www.youtube.com/watch?v=luYJiMgRHQ8
